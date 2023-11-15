@@ -1,0 +1,34 @@
+¿Para qué se usa la propiedad box-sizing: border-box?
+
+El valor border-box en el box-sizing hace que el padding y el border pasen a formar parte del cálculo del ancho de la caja y no lo suman posteriormente.
+
+Enumere algunas características que incorporó la versión 5 de HTML
+Etiquetas semánticas como header, nav, footer, Etiquetas multimedia como audio y video, mejoras a los forms, campos y atributos nuevos
+
+¿Cómo se puede seleccionar un id en css?
+Con el selector '#'
+
+Si estoy usando display flex y quiero centrar los elementos horizontalmente, ¿que propiedad debo utilizar?
+Y si quiero centrar los elementos verticalmente, ¿qué propiedad debo utilizar? justify-content centra horizontalmente, align-items centra verticalmente
+
+¿Cuál permite mostrar un valor por defecto en un elemento input, pero que se borra al hacer foco en el
+mismo?
+El atributo placeholder
+
+¿Cuál es el evento que detecta el envío de un formulario?
+El evento submit
+
+¿Qué sucede si una función define una variable local con el mismo nombre que una variable global que ya existe?
+El valor cambia, pero solo de forma local, fuera de la función, continua
+el valor global
+
+¿Es posible cargar un array con distintos tipos de datos? Por ejemplo let variable1 = new Array(2, "hola",
+true, 45.34);?
+
+Sí, en JavaScript es posible
+
+¿Qué es el DOM? ¿Qué tipos de nodos conoce?
+El DOM visualiza el documento de HTML como un árbol de tres nodos. Un nodo representa un documento de HTML, y otros nodos son Head, con sus etiquetas, Body, con sus etiquetas, los seleccionamos con querySelector, getElementBy, etc.
+
+¿Cómo obtengo en javascript el valor del input de un campo de un formulario?
+Con 'value', por ejemplo inputName.value;

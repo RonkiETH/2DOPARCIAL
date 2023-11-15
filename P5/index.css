@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_group {
+    width: 50%;
+    flex-wrap: wrap;
+}
+
+.form_buttons {
+    display: flex;
+    width: 100%;
+}
+
+.nota_p {
+    border: 1px solid #000;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.one_column {
+    flex-direction: column;
+}
